@@ -2,21 +2,21 @@
   "Tatuagens":[
       {
           "id":1,
-          "desenho": "caveira",
+          "desenho": "Caveira",
           "estilo": "Blackwork",
           "cor": "preto",
           "imagem" : "https://i.pinimg.com/564x/5e/5c/82/5e5c821bfb20744fdcfaf0769d9934c8.jpg"
       },
       {
           "id":2,
-          "desenho": "gato",
+          "desenho": "Gato",
           "estilo": "Geométrico",
           "cor": "preto",
           "imagem" : "https://i.pinimg.com/originals/2d/52/dc/2d52dcd78b42bcb0a9f4d5f1780bcc1e.jpg"
       },
       {
           "id":3,
-          "desenho": "coração",
+          "desenho": "Coração",
           "estilo": "old school",
           "cor": "vermelho",
           "imagem" : "https://i.pinimg.com/originals/e4/60/c2/e460c243ea180dc70a575edfe604702c.jpg"
@@ -24,49 +24,49 @@
       },
       {
           "id":4,
-          "desenho": "chave",
+          "desenho": "Chave",
           "estilo": "pontilhismo",
           "cor": "preto",
           "imagem" : "https://blog.pajaris.com.br/wp-content/uploads/2020/06/Tatuagem-pontilhismo-_0038_Camada-3.jpg"
       },
       {
           "id":5,
-          "desenho": "maçã",
+          "desenho": "Maçã",
           "estilo": "minimalista",
           "cor": "verde",
           "imagem" : "https://gvesteticacursos.com.br/wp-content/uploads/2020/05/177f3bfbce1198e95f96a00254c13c7e-1024x1024.jpg"
       },
       {
           "id":6,
-          "desenho": "rosa",
+          "desenho": "Rosa",
           "estilo": "single Line",
           "cor": "preto",
           "imagem" : "https://www.guiadasemana.com.br/cdn-cgi/mirage/f7f300236de882a53b0464397c3501085ae00829810917b236e0615ea82f5e8b/1280/https://www.guiadasemana.com.br/contentFiles/image/opt_w320h320/2016/10/FEA/37716_singleline.jpg"
       },
       {
           "id":7,
-          "desenho": "monalisa",
+          "desenho": "Monalisa",
           "estilo": "Glitch",
           "cor": "colorido",
           "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAmCRxpJjMwfOroYfc-zzH9lnIgWDKugOuLU6zcOc-TBc9tnQhRETcBx-WfX-OVWw4eXw&usqp=CAU"
       },
       {
           "id":8,
-          "desenho": "renda",
-          "estilo": "tinta branca",
+          "desenho": "Hiperealismo",
+          "estilo": "https://br.paipee.com/wp-content/uploads/2019/08/tatuagens-brancas-7.jpg",
           "cor": "branca",
           "imagem" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtFsUluEL8d9Zd7lLOUFWGx_CaOXwoZhfUMAk_b6gRsT90r4HzYdSXHnJvLt_wn3nAAi1NPIupyqAVCgTT3Z7IcTFVuCrCPUj_gpR0l1puS2f5UR0YSGwJWJOmlawxve-O7WnGDg2blpZKuUrhzWEJAxg2hF8gYV_fERULQAYXhjiORcyWoMZNljq0/w1200-h630-p-k-no-nu/Tudo%20que%20voc%C3%AA%20deve%20saber%20sobre%20tatuagem%20em%20pele%20negra%20com%20tinta%20branca.png"
       },
       {
           "id":9,
-          "desenho": "leão",
+          "desenho": "Leão",
           "estilo": "Realista",
           "cor": "preto",
           "imagem" : "https://i.pinimg.com/736x/25/a3/9f/25a39f613a05edcb2fccbece33c2a5ed.jpg"
       },
       {
           "id":10,
-          "desenho": "coruja",
+          "desenho": "Coruja",
           "estilo": "maori",
           "cor": "preto",
           "imagem" : "https://tattoo.ind.br/wp-content/uploads/2022/02/maori_tatoo_brasil_195845121_939053809969768_5430045565597871768_n-1022x1024.jpg"
@@ -75,7 +75,7 @@
   "Clientes": [
       {
           "id":1,
-          "nome": "cláudia Sampaio",
+          "nome": "Cláudia Sampaio",
           "estilo": "Geométrico",
           "desenho": "caneta",
           "preço": "R$70,00"            
