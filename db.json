@@ -24,21 +24,21 @@
       },
       {
           "id":4,
-          "desenho": "Chave",
+          "desenho": "Cubo",
           "estilo": "pontilhismo",
           "cor": "preto",
           "imagem" : "https://blog.pajaris.com.br/wp-content/uploads/2020/06/Tatuagem-pontilhismo-_0038_Camada-3.jpg"
       },
       {
           "id":5,
-          "desenho": "Maçã",
+          "desenho": "Praia",
           "estilo": "minimalista",
           "cor": "verde",
           "imagem" : "https://gvesteticacursos.com.br/wp-content/uploads/2020/05/177f3bfbce1198e95f96a00254c13c7e-1024x1024.jpg"
       },
       {
           "id":6,
-          "desenho": "Rosa",
+          "desenho": "Lobo",
           "estilo": "single Line",
           "cor": "preto",
           "imagem" : "https://www.guiadasemana.com.br/cdn-cgi/mirage/f7f300236de882a53b0464397c3501085ae00829810917b236e0615ea82f5e8b/1280/https://www.guiadasemana.com.br/contentFiles/image/opt_w320h320/2016/10/FEA/37716_singleline.jpg"
@@ -66,7 +66,7 @@
       },
       {
           "id":10,
-          "desenho": "Coruja",
+          "desenho": "Tribal",
           "estilo": "maori",
           "cor": "preto",
           "imagem" : "https://tattoo.ind.br/wp-content/uploads/2022/02/maori_tatoo_brasil_195845121_939053809969768_5430045565597871768_n-1022x1024.jpg"
@@ -108,42 +108,42 @@
           "nome": "Leonardo Gomes",
           "cargo": "Tatuador",
           "idade": 23,
-          "Salário": "R$3.000,00"            
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcl60RJT8Z-VDG5y31PvxCBplckmUaDRJEA&usqp=CAU"            
       },
       {
           "id":2,
           "nome": "Vanessa Motta",
           "cargo": "Tatuadora",
           "idade": 25,
-          "Salário": "R$3.000,00"            
+          "imagem": "https://ogimg.infoglobo.com.br/in/18529341-812-973/FT1086A/TATTOO.jpg"            
       },
       {
           "id":3,
           "nome": "Daiana Cabral",
           "cargo": "Recepcionista",
           "idade": 20,
-          "Salário": "R$1.500,00"            
+          "imagem": "http://s.glbimg.com/jo/g1/f/original/2012/04/17/aline1.jpg"            
       },
       {
           "id":4,
           "nome": "Sérgio Costa",
           "cargo": "Auxiar de Serviços Gerais",
           "idade": 42,
-          "Salário": "R$1.500,00"            
+          "imagem": "https://i.pinimg.com/280x280_RS/66/a1/a4/66a1a4a22e271ec3ee3ef35ba0883ca4.jpg"            
       },
       {
           "id":5,
           "nome": "Henrrique Cavalliera",
           "cargo": "Proprietário",
           "idade": 40,
-          "Salário": "indefinido"            
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSun08QVBbmZ28Ad8_XFz1qWYJafwugY-IzPQ&usqp=CAU"            
       },
       {
           "id":6,
           "nome": "Carina Silva",
           "cargo": "Assistente Adm",
           "idade": 28,
-          "Salário": "R$2.500,00"            
+          "imagem": "https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2018/03/formacao_1600x1200-como-a-presenca-da-mulher-pode-ser-harmonia-no-mundo.jpg"            
       }
   ],
   "pedidos": [
